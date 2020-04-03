@@ -1,0 +1,4 @@
+name: FixEndPortals
+version: 0.1
+main: me.moomoo.fixendportals.main
+description: Fix end portals on anarchy servers.
