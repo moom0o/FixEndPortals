@@ -1,2 +1,3 @@
-# FixEndPortals
-My fix for destroying end portals on 1b1t!
+# DEPRECIATED 
+
+Use my AnarchyExploitFixes plugin instead. It recieves all new updates.
